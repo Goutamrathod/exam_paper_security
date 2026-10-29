@@ -1,0 +1,38 @@
+====================================================================
+               DEPARTMENT OF COMPUTER SCIENCE & ENGINEERING
+                   CONFIDENTIAL END-SEMESTER EXAMINATION
+====================================================================
+
+Course Code: CS801
+Course Name: Cryptography and Network Security
+Maximum Marks: 100
+Duration: 3 Hours
+
+INSTRUCTIONS TO CANDIDATES:
+1. Answer all questions from Section A and any three from Section B.
+2. Confidential material: Do not distribute or reproduce without authorization.
+
+--------------------------------------------------------------------
+SECTION A (5 x 4 = 20 Marks)
+--------------------------------------------------------------------
+Q1. Differentiate between symmetric and asymmetric key cryptosystems.
+Q2. Explain the significance of the Galois/Counter Mode (GCM) in AES encryption.
+Q3. What is the purpose of Optimal Asymmetric Encryption Padding (OAEP) in RSA?
+Q4. Explain how Probabilistic Signature Scheme (PSS) enhances digital signature security.
+Q5. Describe the role of initialization vectors (Nonces) in preventing replay attacks.
+
+--------------------------------------------------------------------
+SECTION B (3 x 20 = 60 Marks)
+--------------------------------------------------------------------
+Q6. (a) Derive the RSA algorithm key generation steps for primes p = 61 and q = 53.
+    (b) Demonstrate encryption and decryption for message M = 65 using e = 17.
+
+Q7. Explain the mathematical structure and operational mode of AES-256-GCM.
+    Detail how confidentiality and message authentication are achieved simultaneously.
+
+Q8. Design a secure communication protocol that provides confidentiality, integrity, 
+    and non-repudiation using a hybrid cryptosystem. Include a flow diagram.
+
+====================================================================
+                         *** END OF PAPER ***
+====================================================================
